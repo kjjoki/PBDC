@@ -29,8 +29,11 @@ The software is free for academic teaching and research purposes but I ask you t
    pbdc.f95 	        - PBDC method.
 	
    plqdf1.f 	        - Quadratic solver by L. Luksan.
-   pvmm.f             - Variable metric method by L. Luksan.
+  
+   pvmm.f               - Variable metric method by L. Luksan.
+   
    mqsubs.f 	        - Basic modules for PVMM by L. Luksan.
+   
    pqsubs.f 	        - Matrix modules for PVMM by L. Luksan.
 	
    Makefile 	        - Makefile.
