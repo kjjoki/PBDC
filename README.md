@@ -1,7 +1,7 @@
 # PBDC
 The proximal bundle method for nonsmooth DC optimization
 
-PBDC is a proximal double bundle solver (Fortran 95) for nonsmooth DC programming (difference of two convex functions) by K. Joki. 
+PBDC is a proximal double bundle solver (Fortran 95) for nonsmooth DC programming (difference of two convex functions) by Kaisa Joki. 
 
 The software utilizes code PVMM by Prof. Ladislav Luksan that is licensed by the GNU Lesser General Public License (LGPL). In addition, code PLQDF1 by Prof. Ladislav Luksan is used to solve quadratic direction finding problem.
 
