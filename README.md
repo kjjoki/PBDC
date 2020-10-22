@@ -10,7 +10,7 @@ The software utilizes OpenMP at each round of 'main iteration' to calculate subp
 The software is free for academic teaching and research purposes but I ask you to refer the reference given below if you use it. To use the software modify tpbdc.f95 and functions.f95 as needed. If you have any questions conserning the software, please contact directly the author Kaisa Joki (email: kjjoki@utu.fi).
 
 
-# Codes include:                                                                     
+# Code include:                                                                     
          
    tpbdc.f95          - Main program for PBDC 
    
@@ -41,7 +41,7 @@ The software is free for academic teaching and research purposes but I ask you t
    testproblems.f95 	- Test problems used in [1].
    
    
-# References:                                                                        
+# Reference:                                                                        
                                                                                               
 [1] Kaisa Joki, Adil M. Bagirov, Napsu Karmitsa and Marko M. Mäkelä: "A proximal bundle method for nonsmooth DC optimization utilizing nonconvex cutting planes". J. Glob. Optim. 68 (2017), pp. 501-535, https://doi.org/10.1007/s10898-016-0488-3                                       
   
